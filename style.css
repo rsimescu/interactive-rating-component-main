@@ -32,8 +32,8 @@ height: 275px;
 flex-direction: column;
 justify-content: space-around;
 flex-wrap: wrap;
-
-
+overflow: hidden;
+overflow-x: hidden;
 border-radius: 20px;
 padding: 20px;
 }
